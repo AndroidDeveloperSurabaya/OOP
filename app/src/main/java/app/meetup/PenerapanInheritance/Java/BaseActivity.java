@@ -20,7 +20,6 @@ abstract class BaseActivity extends AppCompatActivity {
         //Init Object2 yang basa kita pakai di Activity di sini agar kita tinggal pakai di semua Activity kita
         //Contohnya Init Butterknife
         //ButterKnife.bind(this)
-		//
         onMain();
     }
 
