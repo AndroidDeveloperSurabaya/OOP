@@ -9,7 +9,9 @@ class RegisterActivityKotlin : BaseActivityKotlin() {
     }
 
     override fun onMain() {
-
+        //kita tinnggal pakai method2 yang telah kita buat di Base Contohnya
+        setLog("Data/pesan yang mau di tampilkan")
+        setToast("Data/pesan yang mau di tampilkan")
     }
 
 }
